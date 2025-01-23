@@ -1,4 +1,2 @@
 # Bank-Account-Management-System
-My first Git Repository
-<br>
-Author - Muh Umer Saeed
+This is my final project for the first semester of my Programming course at PIEAS.
